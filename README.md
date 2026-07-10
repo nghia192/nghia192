@@ -35,4 +35,3 @@ I am a passionate 3rd-year Software Engineering student dedicated to building se
 
 ### 📫 Let's Connect
 - **Email:** trojnghiax192@gmail.com
-- **LinkedIn:** [Insert your LinkedIn Link here]
